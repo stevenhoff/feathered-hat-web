@@ -1,3 +1,15 @@
 ---
 layout: style
 ---
+.navbar-logo {
+  height: 100%;
+  /* width: 100%; */
+}
+
+.navbar-default .navbar-brand {
+  padding: 0 15px 0;
+}
+
+.team-member img {
+    max-width: 252px;
+}

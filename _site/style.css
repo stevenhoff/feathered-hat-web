@@ -353,7 +353,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 100px 0;
     }
 }
 
@@ -874,4 +874,16 @@ body {
     webkit-tap-highlight-color: #fed136;
 }
 
+.navbar-logo {
+  height: 100%;
+  /* width: 100%; */
+}
+
+.navbar-default .navbar-brand {
+  padding: 0 15px 0;
+}
+
+.team-member img {
+    max-width: 252px;
+}
 
