@@ -1,0 +1,23 @@
+description: Some services
+items:
+  - name: Weddings
+    icon: rings-wedding
+    description: Here is my wedding description.
+  - name: Narratives
+    icon: film
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+  - name: Promotional
+    icon: ad
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+  - name: Commercial
+    icon: tv-retro
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+  - name: Music Videos
+    icon: tv-music
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+  - name: Events
+    icon: calendar
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+  - name: Photography
+    icon: camera-retro
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
